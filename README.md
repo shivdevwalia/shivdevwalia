@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shivdev Walia
 
-💻 Full Stack Developer | 🛠 MERN Stack | 🌐 Passionate about scalable web apps
+💻 Full Stack Developer | 🛠 MERN Stack | 🌐 Passionate about building scalable backend systems, RESTful APIs, and seamless user experiences
 
 ## 🔧 Tech Stack
 
