@@ -13,9 +13,9 @@
 
 ## 🧰 My Projects
 
-- [Alibaba E-Commerce](https://github.com/your-username/alibaba-project) — Full-stack app with admin & user dashboards
-- [React CRUD Auth](https://github.com/your-username/react-crud-auth)
-- [Node.js Express API](https://github.com/your-username/webapp-backend)
+- [Alibaba E-Commerce](https://github.com/shivdevwalia/alibaba-project) — Full-stack app with admin & user dashboards
+- [React CRUD Auth](https://github.com/shivdevwalia/react-crud-auth)
+- [Node.js Express API](https://github.com/shivdevwalia/webapp-backend)
 
 ## 📬 Connect with me
 
