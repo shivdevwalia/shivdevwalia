@@ -5,17 +5,24 @@
 ## 🔧 Tech Stack
 
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
 
 ## 🧰 My Projects
 
-- [Alibaba E-Commerce](https://github.com/shivdevwalia/alibaba-fullstack) — Full-stack app with admin & user dashboards
-- [React CRUD Auth](https://github.com/shivdevwalia/react-crud-auth)
-- [Node.js Express API](https://github.com/shivdevwalia/webapp-backend)
+- [Indian Home Expense Tracker](https://github.com/shivdevwalia/Home-Expense-Calc)
+- [Alibaba E-Commerce](https://github.com/shivdevwalia/alibaba-fullstack) 
+- [Spotify playlist organizer](https://github.com/shivdevwalia/webapp-backend)
 
 ## 📬 Connect with me
 
