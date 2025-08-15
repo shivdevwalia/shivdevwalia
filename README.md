@@ -20,7 +20,7 @@
 
 ## 🧰 My Projects
 
-- [Indian Home Expense Tracker](https://github.com/shivdevwalia/Home-Expense-Calc) – Full-stack household expense tracker with Next.js, Supabase, and Spring Boot.
+- [Indian Home Expense Tracker](https://github.com/shivdevwalia/Home-Expense-Calc) – Full-stack household expense tracker with Next.js and supabase.
 - [Alibaba E-Commerce](https://github.com/shivdevwalia/alibaba-fullstack) – MERN stack e-commerce site inspired by Alibaba, with admin dashboard and order management.
 - [Spotify Playlist Organizer](https://github.com/shivdevwalia/spotify-playlist-organizer) – Next.js + Spotify API tool to split and organize playlists by custom rules.
 
