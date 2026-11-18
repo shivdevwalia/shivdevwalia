@@ -1,27 +1,42 @@
-# Shiv Dev Singh Walia
+<h1 align="center">Shiv Dev Singh Walia</h1>
 
-Software Developer Intern at RBC and Computer Science student at York University. I build full-stack applications and applied AI workflows, with a focus on backend design, data integrity, and clear user controls.
+<p align="center">
+  <samp>SOFTWARE ENGINEERING &amp; APPLIED AI</samp>
+</p>
 
-My current work explores a practical question: how can an AI assistant help people change application data while keeping those changes explicit, reviewable, and safe to retry?
+<p align="center">
+  Software Developer Intern at <strong>RBC</strong><br>
+  Computer Science at <strong>York University</strong> · Toronto
+</p>
 
-### Selected work
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivdev-walia/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:shivdevsinghwalia@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/shivdevwalia?tab=repositories">Repositories</a>
+</p>
 
-**[Household Expense & Workforce Tracker](https://github.com/shivdevwalia/Home-Expense-Calc)**
+---
 
-Household finances, staff salaries, attendance, and bills, with a LangGraph assistant that prepares changes for human approval. The backend revalidates proposals and applies approved actions transactionally, with persistent checkpoints and receipts to guard against duplicate execution.
+I build full-stack applications and backend services. My AI work focuses on explicit approvals, durable state, and reliable retries.
 
-Python · FastAPI · PostgreSQL · Next.js · TypeScript · LangGraph
+### Selected projects
 
-**[Wander](https://github.com/paturiii/mongo-hack)**
+| Project | Engineering focus |
+| :--- | :--- |
+| **[Household Expense & Workforce Tracker](https://github.com/shivdevwalia/Home-Expense-Calc)**<br><sub>FastAPI · PostgreSQL · Next.js · LangGraph</sub> | Household finances and staff management. The assistant prepares changes for review; approved actions use transactional writes, version checks, and replay protection. |
+| **[Wander](https://github.com/paturiii/mongo-hack)**<br><sub>Python · MongoDB · LangGraph · Next.js</sub> | Co-developed a travel-planning project. My work covers disruption monitoring, scoped impact analysis, and traveler-approved replanning handoffs. |
+| **[Alibaba-style E-commerce](https://github.com/shivdevwalia/alibaba-fullstack)**<br><sub>React · Redux · Express · MongoDB</sub> | Product discovery, carts, orders, and administration, with email/password and Google sign-in. |
 
-Co-developed an AI travel-planning project. My disruption-management work connects monitored signals to scoped impact, response options, and traveler confirmation before a transactional replanning handoff. Includes resumable LangGraph workflows and MongoDB-backed coordination.
+### Experience
 
-Python · FastAPI · LangGraph · MongoDB · Next.js
+- **RBC** — Software Developer Intern · Sep 2026–present
+- **Ontario Ministry of Public and Business Service Delivery and Procurement** — Software Engineer Intern · Jan–May 2026
+- **Netgains** — Software Developer Intern · Apr–Aug 2025
 
-**[Alibaba-style E-commerce](https://github.com/shivdevwalia/alibaba-fullstack)**
+### Working stack
 
-A React and Express application covering product discovery, carts, order placement, and administration. Includes email/password and Google sign-in, MongoDB persistence, and contact email integration.
-
-React · Redux · Node.js · Express · MongoDB
-
-[LinkedIn](https://www.linkedin.com/in/shivdev-walia/) · [Email](mailto:shivdevsinghwalia@gmail.com)
+**Languages** &nbsp; Python · TypeScript · JavaScript · Java · SQL<br>
+**Web & backend** &nbsp; React · Angular · Next.js · FastAPI · Spring Boot · Express<br>
+**Data & AI** &nbsp; PostgreSQL · MongoDB · LangGraph · LangChain · OpenAI API
